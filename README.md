@@ -23,7 +23,7 @@ Manage the full delivery lifecycle — backlog, issues, deployment, iteration
 
 ### WalletRep — Onchain Wallet Reputation Scoring
 
-**[wlltrep.xyz](https://wlltrep.xyz)** · [Repo](https://github.com/KaizenBanjaLuka/walletrep) [Kanban board] (https://github.com/orgs/KaizenBanjaLuka/projects/1)
+**[wlltrep.xyz](https://wlltrep.xyz)** · [Repo](https://github.com/KaizenBanjaLuka/walletrep) · [Kanban board](https://github.com/orgs/KaizenBanjaLuka/projects/1)
 
 A multichain dApp that scores and grades Ethereum wallet behavior across 5 chains (Ethereum, Base, Arbitrum, Optimism, Avalanche). Wallets are scored across 6 dimensions and assigned a reputation tier.
 
