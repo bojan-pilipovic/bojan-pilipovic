@@ -7,7 +7,7 @@ I'm a project and product management professional with deep experience in crypto
 I'm open to PM roles, consulting engagements, and part-time collaborations in web3, AI, and SaaS.
 
 [LinkedIn](https://www.linkedin.com/in/bojan-pilipovic-10b73588/)
-[Medium](https://medium.com/@fikko87_90982) — writing on Web3, AI-assisted development, and product building
+[Medium](https://medium.com/@bojan-pilipovic) — writing on Web3, AI-assisted development, and product building
 
 ---
 
