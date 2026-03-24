@@ -62,6 +62,10 @@ Both live products share a design system:
 - Prompts are self-contained — assume Claude Code has no memory of previous prompts
 - Always specify "plain JavaScript, no TypeScript, no Tailwind" to avoid drift
 
+### wlltrep repo:
+always add files by name, never git add . 
+.gitignore was accidentally deleted once — be cautious.
+
 ---
 
 ## Standing Instructions for Claude
