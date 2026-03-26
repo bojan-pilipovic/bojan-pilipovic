@@ -70,7 +70,7 @@ A Web3 identity dApp that generates a shareable onchain resume from any EVM wall
 The third product in the Web3 identity suite. A soulbound NFT credential minted by wallets that meet minimum reputation and activity thresholds — making onchain identity portable and verifiable across DAOs, DeFi protocols, NFT projects, and Web3 hiring.
 
 **Planned stack:** Solidity · ERC-721 · ERC-5192 (Soulbound) · Base L2 · Next.js  
-[Read the PRD →](./docs/WalletPassport_PRD.pdf)
+[Read the PRD →](./docs/WalletPassport_PRD.md)
 
 ---
 
