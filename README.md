@@ -4,7 +4,7 @@
 
 I'm a project and product management professional with deep experience in crypto/web3, currently building at the intersection of AI-assisted development and decentralized products. This GitHub is my working portfolio — a live record of what I spec, direct, and ship.
 
-I'm open to PM roles, consulting engagements, and part-time collaborations in web3, AI, and SaaS.
+
 
 [LinkedIn](https://www.linkedin.com/in/bojan-pilipovic-10b73588/)
 [Medium](https://medium.com/@bojan-pilipovic) — writing on Web3, AI-assisted development, and product building
