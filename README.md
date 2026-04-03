@@ -1,4 +1,4 @@
-=# Bojan Pilipović — Portfolio
+##  Bojan Pilipović — Portfolio
 
 **Project & Product Manager — Web3 · AI · SaaS**
 **DeFi Business Developer and advisor**
