@@ -1,11 +1,9 @@
-# Bojan Pilipović — Portfolio
+=# Bojan Pilipović — Portfolio
 
 **Project & Product Manager — Web3 · AI · SaaS**
 **DeFi Business Developer and advisor**
 
 I'm a project and product management professional with deep experience in crypto/web3, currently building at the intersection of AI-assisted development and decentralized products. This GitHub is my working portfolio — a live record of what I spec, direct, and ship.
-
-
 
 [LinkedIn](https://www.linkedin.com/in/bojan-pilipovic-10b73588/)
 [Medium](https://medium.com/@bojan-pilipovic) — writing on Web3, AI-assisted development, and product building
@@ -40,7 +38,7 @@ A multichain dApp that scores and grades EVM wallet behavior across 5 chains. Wa
 - Deployed to production on custom domain via Vercel + Namecheap
 - Maintained clean security practices — no wallet data stored, API key in environment
 
-**Stack:** Node.js · Express · Alchemy API · Vanilla JS · Vercel  
+**Stack:** Node.js · Express · Alchemy API · Vanilla JS · Vercel
 **Roadmap:** Polygon · BNB Chain · Solana · Public API · Embed widget · Monetization
 
 ---
@@ -58,20 +56,43 @@ A Web3 identity dApp that generates a shareable onchain resume from any EVM wall
 - Deployed to production on custom domain (wlltresume.xyz) via Vercel + Namecheap
 - Cross-links with WalletRep — complementary products in a growing Web3 identity suite
 
-**Stack:** Next.js 14 · Alchemy API · ethers.js · Vercel  
-**Roadmap:** Connect Wallet flow · PDF export · DAO detection · Wallet Passport integration
+**Stack:** Next.js 14 · Alchemy API · ethers.js · Vercel
+**Roadmap:** Connect Wallet flow · PDF export · DAO detection
 
 ---
 
-## In Planning
+### Astrokard — AI-Powered Astrocartography
+[astrokard.com](https://astrokard.com) · [Repo](https://github.com/KaizenBanjaLuka/astrokard)
 
-### Wallet Passport — Portable Web3 Identity Credential
-*Pre-development — PRD available in `/docs`*
+An AI-powered astrocartography reading app. Enter your birth date, time, and place — Astrokard uses real astronomical calculations (Swiss Ephemeris via kerykeion) to identify the best and worst places in the world for you to live, based on your planetary lines. Results are interpreted by Claude AI in English or Bosnian/Serbian.
 
-The third product in the Web3 identity suite. A soulbound NFT credential minted by wallets that meet minimum reputation and activity thresholds — making onchain identity portable and verifiable across DAOs, DeFi protocols, NFT projects, and Web3 hiring.
+**What I built:**
+- Designed the full product from scratch — freemium model, pricing tiers, UX flow
+- Directed full-stack build: Python/FastAPI backend, React/Vite frontend
+- Architected the data pipeline — geocoding, timezone resolution, Swiss Ephemeris calculations, Claude AI interpretation
+- Integrated Lemon Squeezy for international one-time payments (solving the Bosnia payment gap)
+- Deployed backend on Railway (Dockerized), frontend on Vercel, custom domain via Namecheap
+- Built bilingual support (EN/BS) with auto-detection from browser locale
 
-**Planned stack:** Solidity · ERC-721 · ERC-5192 (Soulbound) · Base L2 · Next.js  
-[Read the PRD →](./docs/WalletPassport_PRD.md)
+**Stack:** Python · FastAPI · kerykeion · Anthropic API · React · Vite · Lemon Squeezy · Railway · Vercel
+**Roadmap:** Full natal chart report with PDF export · UI redesign · User accounts · Compatibility readings
+
+---
+
+### Pitchgate — The Verified BD Network for Crypto/Web3
+[pitchgate.xyz](https://pitchgate.xyz) · Waitlist open
+
+BD reps and protocols find each other through structured, verified profiles and mutual-consent connection requests — no cold DMs, no spam, no noise.
+
+**What I built:**
+- Defined the full trust architecture — tiered vouching system (Tier 0→3), Signal reputation score, match mechanics
+- Directed full-stack build: Next.js App Router, PostgreSQL, Clerk auth, Resend email
+- Designed the connection request flow — person → project, accept/decline, contact unlock on match
+- Shipped the Signal score system — additive reputation metric across vouches, endorsements, and confirmed matches
+- Architected Phase 2 AI layer — intent board with Claude API semantic matching (in progress)
+
+**Stack:** Next.js · PostgreSQL · Railway · Clerk · Resend · Vercel · Anthropic API (Phase 2)
+**Roadmap:** Intent board · AI-powered semantic matching · Smart resolution engine
 
 ---
 
@@ -97,6 +118,6 @@ This is the emerging skillset for modern PMs: knowing enough to build, without b
 - Project, Delivery and Product Manager / Senior PM roles (web3, AI, SaaS)
 - Fractional PM or consulting engagements
 - Part-time collaborations on early-stage products
-- DeFi Business Development 
+- DeFi Business Development
 
 [Let's connect on LinkedIn](https://www.linkedin.com/in/bojan-pilipovic-10b73588/)
