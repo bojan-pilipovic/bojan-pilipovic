@@ -1,6 +1,7 @@
 # Bojan Pilipović — Portfolio
 
 **Project & Product Manager — Web3 · AI · SaaS**
+**DeFi Business Developer and advisor**
 
 I'm a project and product management professional with deep experience in crypto/web3, currently building at the intersection of AI-assisted development and decentralized products. This GitHub is my working portfolio — a live record of what I spec, direct, and ship.
 
@@ -96,5 +97,6 @@ This is the emerging skillset for modern PMs: knowing enough to build, without b
 - Project, Delivery and Product Manager / Senior PM roles (web3, AI, SaaS)
 - Fractional PM or consulting engagements
 - Part-time collaborations on early-stage products
+- DeFi Business Development 
 
 [Let's connect on LinkedIn](https://www.linkedin.com/in/bojan-pilipovic-10b73588/)
